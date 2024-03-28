@@ -1,5 +1,5 @@
 {
-  "name": "templateteste",
+  "name": "@react-template/teste-template",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -17,5 +17,15 @@
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
-  "private": true
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidFilipeG/templateTeste.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "David Filipe",
+  "description": "template",
+  "license": "MIT",
+  "homepage": "https://github.com/DavidFilipeG/templateTeste#readme"
 }
